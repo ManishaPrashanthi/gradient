@@ -1,0 +1,23 @@
+#first{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    float: left;
+    background-image: repeating-conic-gradient(yellow 5% 10%,red 10% 20%);
+}
+#second{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 10%;
+    background-image: conic-gradient(pink 10%, green 20%, yellow 30%,purple 40%,red 50%,lightgreen 60%,black 70%, brown 80%,silver 90%);
+}
+#third{
+    height:200px;
+    width: 200px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 10%;
+    background-image: conic-gradient(blueviolet 10% 20%,orange 20% 30%, green 30% 40%, purple 40% 50%,deeppink 50% 60%,black 60% 70%, grey 70% 80%,red 80% 90%,brown 90% 100%);
+}
